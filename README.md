@@ -1,5 +1,3 @@
-<!-- FILE: README.md untuk profil GitHub SayidAngkasa -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=Khaliyah+Sayid+Lathif;IT+Student+%7C+RPL;Fullstack+Developer+in+Training;Building+efficient+%26+aesthetic+solutions" alt="Typing Animation" />
 </p>
@@ -16,7 +14,7 @@
 
 ---
 
-## 🧑‍🎓 Tentang Saya
+##  Tentang Saya
 
 <table>
   <tr>
@@ -26,14 +24,14 @@
         <strong>efisien, scalable, dan estetik</strong>.
       </p>
       <p>
-        Saat ini saya sedang memperdalam ekosistem <strong>Laravel & Vue.js</strong>, serta aktif belajar pengembangan 
-        <strong>aplikasi mobile</strong> dan <strong>visualisasi 3D interaktif</strong>.
+        Saat ini saya sedang memperdalam <strong>Laravel & Vue.js</strong>, serta aktif belajar pengembangan 
+        <strong>aplikasi mobile</strong>
       </p>
       <p>
-        🚀 <strong>Status:</strong> <em>Masih dalam tahap belajar dan terus berkembang setiap hari</em>
+         <strong>Status:</strong> <em>Masih dalam tahap belajar dan terus berkembang setiap hari</em>
       </p>
       <p>
-        💬 <strong>Prinsip:</strong> <em>"Clean code, scalable architecture, and continuous improvement"</em>
+        <strong>Prinsip:</strong> <em>"Masih banyak yang belum tahu, tapi saya tidak akan berhenti belajar seumur hidup."</em>
       </p>
     </td>
     <td align="center" width="40%">
@@ -46,7 +44,7 @@
 
 ## 🛠️ Tech Stack
 
-### ✅ Sedikit Berpengalaman
+### Sedikit Berpengalaman
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -56,7 +54,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📚 Sedang Dipelajari (Learning in Progress)
+### Sedang Dipelajari (Learning in Progress)
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -66,9 +64,6 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
-> 🟡 **Catatan:** Saya masih dalam tahap belajar untuk teknologi yang ada di bagian "Sedang Dipelajari". Terbuka untuk masukan dan kolaborasi!
-
----
 
 ## 📊 GitHub Stats
 
@@ -82,23 +77,3 @@
 </p>
 
 ---
-
-## 🚀 Progress Belajar
-
-```mermaid
-graph LR
-    A[PHP/Laravel] --> B[Vue.js]
-    A --> C[React.js]
-    B --> D[Fullstack Web]
-    C --> D
-    D --> E[React Native]
-    C --> F[Tailwind + CSS3]
-    F --> G[Modern UI/UX]
-    
-    style A fill:#2D9EF7,stroke:#fff,stroke-width:2px
-    style B fill:#4FC08D,stroke:#fff,stroke-width:2px
-    style C fill:#61DAFB,stroke:#fff,stroke-width:2px
-    style D fill:#FF2D20,stroke:#fff,stroke-width:2px
-    style E fill:#20232A,stroke:#fff,stroke-width:2px
-    style F fill:#06B6D4,stroke:#fff,stroke-width:2px
-    style G fill:#8B5CF6,stroke:#fff,stroke-width:2px
