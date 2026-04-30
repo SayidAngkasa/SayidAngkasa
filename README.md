@@ -26,7 +26,7 @@
         Saat ini saya sedang memperdalam <strong>Laravel</strong>, dan mulai merambah ke <strong>React.js & Tailwind CSS</strong>. Juga aktif belajar pengembangan aplikasi mobile.
       </p>
       <p>
-         <strong>Status:</strong> <em>Masih ngoding sambil googling. Error itu teman, bukan musuh.</em>
+         <strong>Status:</strong> <em>Masih ngoding sambil googling.</em>
       </p>
       <p>
         <strong>Prinsip:</strong> <em>"Masih banyak yang belum tahu, tapi saya tidak akan berhenti belajar seumur hidup."</em>
