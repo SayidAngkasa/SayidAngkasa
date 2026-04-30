@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=Khaliyah+Sayid+Lathif;IT+Student+%7C+RPL;Fullstack+Developer+in+Training;Building+efficient+%26+aesthetic+solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2D9EF7&center=true&vCenter=true&width=700&lines=Khalifah+Sayid+Lathif;IT+Student+%7C+RPL;Fullstack+Developer+in+Training;Building+efficient+%26+aesthetic+solutions" alt="Typing Animation" />
 </p>
 
 ---
@@ -14,48 +14,48 @@
 
 ---
 
-##  Tentang Saya
+## 🧑‍🎓 Tentang Saya
 
 <table>
-  <tr>
+   <tr>
     <td width="60%">
       <p>
-        Saya adalah siswa <strong>Rekayasa Perangkat Lunak (RPL)</strong> yang memiliki ketertarikan besar dalam membangun solusi digital yang 
-        <strong>efisien, scalable, dan estetik</strong>.
+        <strong>Siswa RPL yang masih banyak salah di kode, tapi gak pernah menyerah. Belajar sambil bikin proyek receh.</strong>
       </p>
       <p>
-        Saat ini saya sedang memperdalam <strong>Laravel & Vue.js</strong>, serta aktif belajar pengembangan 
-        <strong>aplikasi mobile</strong>
+        Saat ini saya sedang memperdalam <strong>Laravel</strong>, dan mulai merambah ke <strong>React.js & Tailwind CSS</strong>. Juga aktif belajar pengembangan aplikasi mobile.
       </p>
       <p>
-         <strong>Status:</strong> <em>Masih dalam tahap belajar dan terus berkembang setiap hari</em>
+         <strong>Status:</strong> <em>Masih ngoding sambil googling. Error itu teman, bukan musuh.</em>
       </p>
       <p>
         <strong>Prinsip:</strong> <em>"Masih banyak yang belum tahu, tapi saya tidak akan berhenti belajar seumur hidup."</em>
       </p>
-    </td>
+     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-    </td>
-  </tr>
+     </td>
+   </tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Sedikit Berpengalaman
+### ✅ Sedikit Berpengalaman
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Sedang Dipelajari (Learning in Progress)
+### 📚 Sedang Dipelajari (Learning in Progress)
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
