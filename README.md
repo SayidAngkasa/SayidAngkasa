@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Khaliyah+Sayid+Lathif;Fullstack+Web+Developer+in+Training;Laravel+%7C+Vue.js+Enthusiast;Building+efficient+%26+aesthetic+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Khalifah+Sayid+Lathif;Fullstack+Web+Developer+in+Training;Laravel+%7C+Vue.js+Enthusiast;Building+efficient+%26+aesthetic+digital+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 Tentang Saya
+## Tentang Saya
 
 Saya adalah siswa **Rekayasa Perangkat Lunak (RPL)** yang berfokus pada pembangunan solusi digital yang **efisien** dan **estetik**.  
 Saat ini saya sedang belajar dan mendalami  **Laravel, Vue.js & Tailwind **, serta aktif mengeksplorasi pengembangan aplikasi **mobile** 
 
-> 💡 *"Passionate about clean code, databases, and APIs."*
+>  *"Passionate about clean code, databases, and APIs."*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,14 +53,14 @@ Saat ini saya sedang belajar dan mendalami  **Laravel, Vue.js & Tailwind **, ser
 
 ---
 
-## 🚀 Sedang Dikerjakan
+##  Sedang Dikerjakan
 
-- 🔭 **Project utama**: Aplikasi web berbasis Laravel + Vue.js
+-  **Project utama**: Aplikasi web berbasis Laravel + Vue.js
 - 📱 **Eksplorasi**: React Native untuk aplikasi mobile lintas platform
 
 ---
 
-## 📫 Hubungi Saya
+##  Hubungi Saya
 
 <p align="center">
   <a href="ksayidlathif@gmail.com">
